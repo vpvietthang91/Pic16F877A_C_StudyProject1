@@ -4,7 +4,7 @@ Pic16F877A heart led controling with IC 595
 First a small example of to regist data on IC:
 
 void registData1(){
-##SH_PIN = 0;
+<br>SH_PIN = 0;</br>
   DS_PIN = 0;
   SH_PIN = 1;
 }
